@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sahithi Vesangi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=ML+Engineer+%7C+Graph+Neural+Nets+%7C+LLMs+%7C+Generative+AI;Data+Scientist+%7C+Cloud+Enthusiast+%7C+AI+for+Social+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=ML+Engineer+%7C+AI+%7C+And+%7C+Product" alt="Typing SVG" />
 </p>
 
 ---
