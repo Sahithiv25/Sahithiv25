@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sahithi Vesangi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=ML+Engineer+%7C+AI+%7C+And+%7C+Product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=ML+Engineer+%7C+AI+%7C+%7C+Product" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,17 +9,17 @@
 ### 🚀 About Me
 
 - 🎓 MS in Computer Science @ Penn State University
-- 💼 Actively seeking roles in **ML Engineering**, **Data Science**, or **AI Research**
-- 🌱 Currently building: Adversarially Robust GNNs for Drug Discovery (w/ PyTorch Geometric + BioSNAP)
-- ⚡ Fun Fact: I believe AI shouldn't just be smart—it should be **human-friendly**.
+- 💼 Actively seeking roles in **Product Management** **ML Engineering** and **Software Engineering**
+- 🌱 Currently building: Products that solve real world problems
+- ⚡ Fact: I strive for "Product"ivity
 
 ---
 
 ### 💼 Projects I'm Proud Of
 
 - 🔬 [AdversarialGNNs](https://github.com/Sahithiv25/AdversarialGNNs): Graph Neural Networks trained to resist backdoor attacks in drug synergy prediction.
-- 📊 [Financial News Sentiment Analysis](https://github.com/Sahithiv25/FinancialNewsSentiment): NLP + BERT pipeline to forecast stock trends based on news sentiment.
-- 🧪 [Atom-level GCN](https://github.com/Sahithiv25/atom_level_gcn): Predicting molecule properties using atomic graph structures with PyTorch Geometric.
+- 📊 [CostVortex](https://github.com/Sahithiv25/CostVortex): Track, Analyze and Optimize APIs
+- 🧪 [RMP RAG](https://github.com/Sahithiv25/RMP-RAG): RAG for Rate My Professor
 - 🔍 [Smart Tutor AI](https://github.com/Sahithiv25/SmartTutorAI): Personalized education assistant for low-resource learners using LLMs.
 
 ---
@@ -40,8 +40,8 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sahithivesangi/)
-- 💌 Email: sahithivesangi25@gmail.com
-- 🧠 Portfolio (coming soon)
+- 💌 Email: sahithivesangi.ms@gmail.com
+- 🧠 [Portfolio]: (https://sahithiv25.github.io/)
 
 ---
 
