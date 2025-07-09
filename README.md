@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sahithi Vesangi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=ML+Engineer+%7C+AI+%7C+%7C+Product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Product+%7C+AI+%7C+ML Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,12 +42,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sahithivesangi/)
 - 💌 Email: sahithivesangi.ms@gmail.com
 - 🧠 [Portfolio]: (https://sahithiv25.github.io/)
-
----
-
-### 📚 Recently Worked On
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
