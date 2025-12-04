@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sahithi Vesangi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Product+%7C+AI+%7C+ML&Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Software+%7C+AI+%7C+ML&Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 MS in Computer Science @ Penn State University
-- 💼 Actively seeking roles in **Product Management** **ML Engineering** and **Software Engineering**
+- 💼 Actively seeking roles in **ML Engineering** and **Software Engineering**
 - 🌱 Currently building: Products that solve real world problems
 - ⚡ Fact: I strive for "Product"ivity
 
